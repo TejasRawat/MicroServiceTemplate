@@ -1,0 +1,12 @@
+This is a sample of RESTful web service project which is implemented in spring boot technology.
+It contains some cool feature implementation like-
+
+1. Design Patter
+2. JWT token 
+3. Centralized exception handling
+4. consume third party web API
+5. Logging 
+6. filters
+7. AOP
+8. database integration
+9. swagger implementation in future
