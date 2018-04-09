@@ -39,5 +39,5 @@ public class ItemController {
 		return new ResponseEntity<ApiResponseModel<ItemSearchResponseModel>>
 														  				(apiResponseModel, HttpStatus.OK);
 	}
-
+	
 }

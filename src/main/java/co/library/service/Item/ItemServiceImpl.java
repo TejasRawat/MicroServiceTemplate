@@ -3,10 +3,13 @@ package co.library.service.Item;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.springframework.stereotype.Service;
+
 import co.library.models.Item.ItemAttribute;
 import co.library.models.Item.ItemSearchRequestModel;
 import co.library.models.Item.ItemSearchResponseModel;
 
+@Service
 public class ItemServiceImpl implements ItemService {
 
 	@Override
